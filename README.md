@@ -5,3 +5,9 @@ Changelog: 28.07.2019.
 ----------------------
 
 Color Correction (assets)
+
+
+Changelog: 15.01.2020.
+----------------------
+
+Redesigned Theme
